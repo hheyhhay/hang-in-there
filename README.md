@@ -11,11 +11,11 @@ ___
 - The _Hang in there Boilerplate_ project is intended for users to be able to view, generate, save, and delete  motivational posters. Each poster contains an image, title and quote. Users can navigate to several different sections of the page including a create your own poster page, and a saved poster gallery.
 ___
 ## Running and Viewing the Project
- - Web page can be viewed [here](file:///Users/justin-turing/turing/mod_1/mod_1_projects/hang-in-there-boilerplate/index.html)  
- - Repo can be accessed [here](https://hheyhhay.github.io/hang-in-there-boilerplate/)  
+ - Web page can be viewed [here](https://hheyhhay.github.io/hang-in-there-boilerplate/)    
+ - Repo can be accessed [here](https://github.com/hheyhhay/hang-in-there-boilerplate)
 ___
 ### Main Page
-![Main Page](https://github.com/hheyhhay/hang-in-there-boilerplate/blob/main/readme-imgs/homepage.png)
+![Main Page](https://github.com/hheyhhay/hang-in-there-boilerplate/blob/main/readme-imgs/form-result.png)
 
 The main page UI displays a randomly generated poster from a preset array of images, preset array of quotes and a preset array of titles. Below the poster, the user will find 4 buttons to interact with,
 
@@ -58,8 +58,7 @@ function deleteImg(id) {
 ```
 ___
 ### Show Another Random Poster
-![Random Poster Button](/Users/justin-turing/turing/mod_1/mod_1_projects/hang-in-there-boilerplate/readme-imgs/homepage.png)  
-
+![Random Poster Button](https://github.com/hheyhhay/hang-in-there-boilerplate/blob/main/readme-imgs/homepage.png)  
 This feature will automatically generate a random poster with a unique image, title, and quote.
 ___
 ### Make Your Own Poster
