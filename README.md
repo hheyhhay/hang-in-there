@@ -15,7 +15,7 @@ ___
  - Repo can be accessed [here](https://hheyhhay.github.io/hang-in-there-boilerplate/)  
 ___
 ### Main Page
-![Main Page](/Users/justin-turing/turing/mod_1/mod_1_projects/hang-in-there-boilerplate/readme-imgs/form-result.png)
+![Main Page](https://github.com/hheyhhay/hang-in-there-boilerplate/blob/main/readme-imgs/homepage.png)
 
 The main page UI displays a randomly generated poster from a preset array of images, preset array of quotes and a preset array of titles. Below the poster, the user will find 4 buttons to interact with,
 
@@ -40,7 +40,7 @@ This will save the current poster displayed on the main page to an array,
 and make it available for viewing in the image gallery.
 ___
 ### Show Saved Posters
-![Image Gallery](/Users/justin-turing/turing/mod_1/mod_1_projects/hang-in-there-boilerplate/readme-imgs/saved.png)  
+![Image Gallery](https://github.com/hheyhhay/hang-in-there-boilerplate/blob/main/readme-imgs/saved.png)  
 
 Engaging the _Show Saved Posters_ button will hide the main page, and navigate to the gallery of previously saved images.
 From this page, the user has the ability to delete an image by double clicking the poster, and the ability to return to the main page by clicking the _Back to Main_ button.
@@ -63,7 +63,7 @@ ___
 This feature will automatically generate a random poster with a unique image, title, and quote.
 ___
 ### Make Your Own Poster
-![Poster form Page](/Users/justin-turing/turing/mod_1/mod_1_projects/hang-in-there-boilerplate/readme-imgs/form.png)  
+![Poster form Page](https://github.com/hheyhhay/hang-in-there-boilerplate/blob/main/readme-imgs/form.png)  
 
 Clicking this button will navigate the user to _Poster Form_ page.
 [!Poster Form Image]
